@@ -1,2 +1,2 @@
-# http://lonelygeek.github.io
+# http://www.lonelygeek.github.io
 Minha página pessoal
