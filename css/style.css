@@ -1,6 +1,14 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
 @import url(http://fonts.googleapis.com/css?family=Playball);
 
+
+@font-face {
+
+      font-family: "Playball";
+      src: url("../fonts/fonts/Playball.ttf") format("truetype");
+
+      }
+
 body, html{
 	font-family: 'Raleway', sans-serif;
 	text-rendering: optimizeLegibility !important;
