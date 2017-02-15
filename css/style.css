@@ -1,5 +1,9 @@
 
+@font-face {
 
+      font-family: "Playball";
+      src: url("../fonts/fonts/playball.ttf") format("truetype");
+      }
       
 
 body, html{
