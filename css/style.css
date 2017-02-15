@@ -6,12 +6,14 @@
 
       font-family: "Playball";
       src: url("../fonts/fonts/Playball.ttf") format("truetype");
+      }
 
+@font-face {
 
       font-family: "Raleway";
       src: url("../fonts/fonts/raleway.ttf") format("truetype");
-
       }
+      
 
 body, html{
 	font-family: 'Raleway', sans-serif;
