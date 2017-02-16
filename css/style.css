@@ -182,7 +182,7 @@ a:focus{
 	font-family: 'Raleway', cursive;
 }
 
-#tf-service{
+#tf-servicos{
 	padding: 7% 0; 
 }
 
@@ -280,7 +280,7 @@ ul.cat.list-inline li a:hover{
 .toppadding{ padding-top: 30px}
 .nopadding{ padding:  0;}
 
-#tf-about{
+#tf-sobre{
 	background: url(../img/07.jpg);
 	background-size: cover;
 	background-position: center;
@@ -289,13 +289,13 @@ ul.cat.list-inline li a:hover{
 	color: #222222;
 }
 
-#tf-about .overlay{
+#tf-sobre .overlay{
 	height: auto;
 	background-attachment: fixed;
 	padding: 10% 0;
 }
 
-#tf-why-me{
+#tf-habilidades{
 	background-color: #fff;
 	background-size: cover;
 	background-position: center;
@@ -304,15 +304,15 @@ ul.cat.list-inline li a:hover{
 	color: #222222;
 }
 
-#tf-why-me .overlay{
+#tf-habilidades .overlay{
 	height: auto;
 	background-attachment: fixed;
 	padding: 5% 0;
 }
-ul.why-me li{
+ul.habilidades li{
 	margin: 10px 0;
 }
-#tf-contact{
+#tf-contato{
 	background: url(../img/08.jpg);
 	background-size: cover;
 	background-position: center;
@@ -322,13 +322,13 @@ ul.why-me li{
 	text-align: center;
 }
 
-form#contact {
+form#contato {
 	padding: 5%;
 	background: #f1f1f1;
 	outline: 6px solid rgba(34, 34, 34, 0.08);
 }
 
-#tf-contact input.form-control {
+#tf-contato input.form-control {
 	height: 40px;
 }
 
@@ -336,7 +336,7 @@ h4.teste {
 	color: #222222;
 }
 
-#tf-contact .form-control{
+#tf-contato .form-control{
 	display: block;
 	width: 100%;
 	margin-bottom: 20px;
@@ -355,8 +355,8 @@ h4.teste {
 	-o-transition: none;
 	transition: all 0.8s;
 }
-#tf-contact .form-control:focus,
-#tf-contact .form-control:hover{
+#tf-contato .form-control:focus,
+#tf-contato .form-control:hover{
 	border-top: 2px solid #2F937B;
 }
 nav#tf-footer {
